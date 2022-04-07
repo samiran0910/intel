@@ -1,0 +1,8 @@
+/home/turing/intel/array-transform/build/CMakeFiles/array-transform.dir
+/home/turing/intel/array-transform/build/CMakeFiles/debug-session.dir
+/home/turing/intel/array-transform/build/CMakeFiles/run.dir
+/home/turing/intel/array-transform/build/CMakeFiles/run-cpu.dir
+/home/turing/intel/array-transform/build/CMakeFiles/run-gpu.dir
+/home/turing/intel/array-transform/build/CMakeFiles/run-fpga.dir
+/home/turing/intel/array-transform/build/CMakeFiles/edit_cache.dir
+/home/turing/intel/array-transform/build/CMakeFiles/rebuild_cache.dir

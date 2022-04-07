@@ -1,0 +1,1 @@
+/opt/intel/oneapi/compiler/2022.0.2/linux/bin/dpcpp -g -O0 CMakeFiles/array-transform.dir/src/array-transform.cpp.o -o array-transform 
